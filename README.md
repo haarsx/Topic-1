@@ -1,2 +1,3 @@
 # Topic-1
-This is my first repository. Author - Harsh Pratap Vishwakarma.
+This is my first repository. 
+Author - Harsh Pratap Vishwakarma.

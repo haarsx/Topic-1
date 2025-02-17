@@ -1,4 +1,4 @@
 # Topic-1
 This is my first repository. 
 <br>
-Author - Harsh Pratap Vishwakarma.
+gtAuthor - Harsh Pratap Vishwakarma (coder)
